@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamranjan12
 - 👀 I’m interested in Distributed Systems, Devops, programming
-- 🌱 I’m currently learning Docker, K8s,Django
+- 🌱 I’m currently learning AWS, Shell Scripting
 - 💞️ I’m looking to collaborate on Tech Discussions :)
 - 📫 How to reach me shubhamranjan95@gmail.com
 
